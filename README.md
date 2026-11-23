@@ -1,5 +1,5 @@
 # Bug Tracker CLI
-
+7R45QK
 A small command-line bug tracker for developers, written in pure Python (no dependencies). Bugs are stored in a local `bugs.json` file.
 
 ## Usage
